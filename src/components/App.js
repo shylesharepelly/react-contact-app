@@ -8,7 +8,7 @@ function App() {
    <div>
     <Header/>
     <AddContact/>
-    {/* <Contact/> */}
+    <Contact/>
 
    </div>
   );
